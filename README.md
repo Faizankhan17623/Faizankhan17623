@@ -43,7 +43,7 @@ Currently building advanced AI systems using **LangChain**, **RAG pipelines**, a
 | [**AI Resume Enhancer**](https://github.com/Faizankhan17623/AI-Resume-Enhancer-v2) | Full-stack AI resume review app — ATS scoring, resume chat coaching, payments, and an admin dashboard. | MERN + AI |
 | [**RAG Application**](https://github.com/Faizankhan17623/Rag-Application) | Retrieval-Augmented Generation pipeline for grounded, context-aware AI responses. | LangChain / RAG |
 | [**AI Notes Summarizer**](https://github.com/Faizankhan17623/AI-Notes-Summarizer-v2) | AI-powered app that condenses notes into concise, structured summaries. | MERN + AI |
-| [**GTA Clone**](https://github.com/Faizankhan17623/Gta-Clone) | Open-world browser game — driving, helicopters, weapons, police chase AI, day/night cycle, zero build step. | Three.js |
+| [**GTA Clone**](https://github.com/Faizankhan17623/Gta-Clone) | Open-world browser game — driving, helicopters, weapons, police chase AI, day/night cycle, zero build step. | JavaScript |
 
 ---
 
