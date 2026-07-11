@@ -100,7 +100,5 @@ Currently building advanced AI systems using **LangChain**, **RAG pipelines**, a
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Faizankhan17623&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Faizankhan17623&color=blueviolet&style=flat" alt="Visitor Count" />
 </div>
