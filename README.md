@@ -86,20 +86,7 @@ Currently building advanced AI systems using **LangChain**, **RAG pipelines**, a
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizankhan17623&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizankhan17623&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Faizankhan17623&theme=radical&hide_border=false" alt="Streak Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizankhan17623&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://ghchart.rshah.org/Faizankhan17623" alt="Faizan's GitHub Contribution Graph" />
 </div>
 
 ---
