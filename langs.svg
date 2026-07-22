@@ -1,0 +1,50 @@
+<svg width="420" height="195" viewBox="0 0 420 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="langsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1723"/>
+      <stop offset="100%" stop-color="#0e2033"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="193" rx="14" fill="url(#langsBg)" stroke="#22d3ee" stroke-opacity="0.35"/>
+  <text x="24" y="34" font-family="'Segoe UI', sans-serif" font-size="17" font-weight="700" fill="#e2f4ff">Most Used Languages</text>
+  <line x1="24" y1="44" x2="396" y2="44" stroke="#22d3ee" stroke-opacity="0.25"/>
+
+  <!-- donut chart: JS 16, HTML 3, TS 2, Python 2, CSS 1 = 24 total -->
+  <g transform="translate(88,120)">
+    <circle r="46" fill="none" stroke="#1e293b" stroke-width="18"/>
+    <!-- JS 66.7% -->
+    <circle r="46" fill="none" stroke="#f7df1e" stroke-width="18"
+      stroke-dasharray="192.7 289.0" stroke-dashoffset="0" transform="rotate(-90)">
+      <animate attributeName="stroke-dasharray" values="0 289; 192.7 289" dur="1.2s" fill="freeze"/>
+    </circle>
+    <!-- HTML 12.5% -->
+    <circle r="46" fill="none" stroke="#e34f26" stroke-width="18"
+      stroke-dasharray="36.1 289.0" stroke-dashoffset="-192.7" transform="rotate(-90)"/>
+    <!-- TS 8.3% -->
+    <circle r="46" fill="none" stroke="#3178c6" stroke-width="18"
+      stroke-dasharray="24 289.0" stroke-dashoffset="-228.8" transform="rotate(-90)"/>
+    <!-- Python 8.3% -->
+    <circle r="46" fill="none" stroke="#3572A5" stroke-width="18"
+      stroke-dasharray="24 289.0" stroke-dashoffset="-252.8" transform="rotate(-90)"/>
+    <!-- CSS 4.2% -->
+    <circle r="46" fill="none" stroke="#1572B6" stroke-width="18"
+      stroke-dasharray="12.1 289.0" stroke-dashoffset="-276.8" transform="rotate(-90)"/>
+  </g>
+
+  <g font-family="Consolas, monospace" font-size="12.5" fill="#e2f4ff">
+    <circle cx="210" cy="70" r="5" fill="#f7df1e"/>
+    <text x="222" y="74">JavaScript  66.7%</text>
+
+    <circle cx="210" cy="94" r="5" fill="#e34f26"/>
+    <text x="222" y="98">HTML  12.5%</text>
+
+    <circle cx="210" cy="118" r="5" fill="#3178c6"/>
+    <text x="222" y="122">TypeScript  8.3%</text>
+
+    <circle cx="210" cy="142" r="5" fill="#3572A5"/>
+    <text x="222" y="146">Python  8.3%</text>
+
+    <circle cx="210" cy="166" r="5" fill="#1572B6"/>
+    <text x="222" y="170">CSS  4.2%</text>
+  </g>
+</svg>

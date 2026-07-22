@@ -1,0 +1,32 @@
+<svg width="420" height="195" viewBox="0 0 420 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1723"/>
+      <stop offset="100%" stop-color="#0e2033"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="193" rx="14" fill="url(#statsBg)" stroke="#22d3ee" stroke-opacity="0.35"/>
+
+  <text x="24" y="34" font-family="'Segoe UI', sans-serif" font-size="17" font-weight="700" fill="#e2f4ff">Faizan's GitHub Stats</text>
+  <line x1="24" y1="44" x2="396" y2="44" stroke="#22d3ee" stroke-opacity="0.25"/>
+
+  <g font-family="Consolas, monospace" font-size="14">
+    <text x="34" y="76" fill="#7dd3fc">★ Total Stars:</text>
+    <text x="380" y="76" text-anchor="end" fill="#e2f4ff" font-weight="700">2</text>
+    <animate xlink:href="#s1" attributeName="opacity" values="0;1" begin="0.1s" fill="freeze"/>
+
+    <text x="34" y="104" fill="#7dd3fc">📦 Public Repos:</text>
+    <text x="380" y="104" text-anchor="end" fill="#e2f4ff" font-weight="700">29</text>
+
+    <text x="34" y="132" fill="#7dd3fc">👥 Followers:</text>
+    <text x="380" y="132" text-anchor="end" fill="#e2f4ff" font-weight="700">2</text>
+
+    <text x="34" y="160" fill="#7dd3fc">🔧 Most Active Stack:</text>
+    <text x="380" y="160" text-anchor="end" fill="#e2f4ff" font-weight="700">JavaScript</text>
+  </g>
+
+  <!-- animated corner pulse -->
+  <circle cx="398" cy="18" r="4" fill="#22d3ee">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

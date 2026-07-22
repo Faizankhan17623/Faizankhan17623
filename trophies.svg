@@ -1,0 +1,56 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trophyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1723"/>
+      <stop offset="100%" stop-color="#0e2033"/>
+    </linearGradient>
+    <linearGradient id="trophyIcon" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 5 trophy cards -->
+  <g font-family="'Segoe UI', sans-serif">
+    <!-- card template repeated via individual groups -->
+    <g transform="translate(10,10)">
+      <rect width="170" height="130" rx="12" fill="url(#trophyBg)" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <circle cx="85" cy="42" r="26" fill="none" stroke="url(#trophyIcon)" stroke-width="3"/>
+      <text x="85" y="50" text-anchor="middle" font-size="24" fill="#67e8f9">🏆</text>
+      <text x="85" y="88" text-anchor="middle" font-size="12" fill="#94a3b8">Repositories</text>
+      <text x="85" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#e2f4ff">29</text>
+    </g>
+
+    <g transform="translate(190,10)">
+      <rect width="170" height="130" rx="12" fill="url(#trophyBg)" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <circle cx="85" cy="42" r="26" fill="none" stroke="url(#trophyIcon)" stroke-width="3"/>
+      <text x="85" y="50" text-anchor="middle" font-size="24" fill="#67e8f9">⭐</text>
+      <text x="85" y="88" text-anchor="middle" font-size="12" fill="#94a3b8">Stars Earned</text>
+      <text x="85" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#e2f4ff">2</text>
+    </g>
+
+    <g transform="translate(370,10)">
+      <rect width="170" height="130" rx="12" fill="url(#trophyBg)" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <circle cx="85" cy="42" r="26" fill="none" stroke="url(#trophyIcon)" stroke-width="3"/>
+      <text x="85" y="50" text-anchor="middle" font-size="24" fill="#67e8f9">🤖</text>
+      <text x="85" y="88" text-anchor="middle" font-size="12" fill="#94a3b8">AI Projects</text>
+      <text x="85" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#e2f4ff">3+</text>
+    </g>
+
+    <g transform="translate(550,10)">
+      <rect width="170" height="130" rx="12" fill="url(#trophyBg)" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <circle cx="85" cy="42" r="26" fill="none" stroke="url(#trophyIcon)" stroke-width="3"/>
+      <text x="85" y="50" text-anchor="middle" font-size="24" fill="#67e8f9">🧩</text>
+      <text x="85" y="88" text-anchor="middle" font-size="12" fill="#94a3b8">Languages</text>
+      <text x="85" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#e2f4ff">5</text>
+    </g>
+
+    <g transform="translate(730,10)">
+      <rect width="170" height="130" rx="12" fill="url(#trophyBg)" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <circle cx="85" cy="42" r="26" fill="none" stroke="url(#trophyIcon)" stroke-width="3"/>
+      <text x="85" y="50" text-anchor="middle" font-size="24" fill="#67e8f9">🚀</text>
+      <text x="85" y="88" text-anchor="middle" font-size="12" fill="#94a3b8">Currently</text>
+      <text x="85" y="112" text-anchor="middle" font-size="16" font-weight="700" fill="#e2f4ff">Shipping AI</text>
+    </g>
+  </g>
+</svg>
