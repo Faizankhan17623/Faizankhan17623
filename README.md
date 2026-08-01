@@ -40,8 +40,8 @@ I'm a Full Stack Developer based in Pune, India, specializing in the **MERN Stac
 | Project | What it does | Stack |
 |:---|:---|:---:|
 | [**AI Resume Enhancer**](https://github.com/Faizankhan17623/AI-Resume-Enhancer-v2) | Full-stack AI resume review app — ATS scoring, resume chat coaching, payments, admin dashboard. | MERN + AI |
-| [**RAG Application**](https://github.com/Faizankhan17623/Rag-Application) | Retrieval-Augmented Generation pipeline for grounded, context-aware AI responses. | LangChain / RAG |
-| [**AI Notes Summarizer**](https://github.com/Faizankhan17623/AI-Notes-Summarizer-v2) | AI-powered app that condenses notes into concise, structured summaries. | MERN + AI |
+| [**Notewise (AI Notes Summarizer)**](https://github.com/Faizankhan17623/Ai-Notes-Summarizer) | AI study companion that turns notes into structured summaries, with chat, spaced-repetition flashcards, and quizzes. | MERN + AI |
+| [**Scout**](https://github.com/Faizankhan17623/scout) | Groq-powered web search agent with Tavily and MongoDB. | Node.js + AI |
 | [**GTA Clone**](https://github.com/Faizankhan17623/Gta-Clone) | Open-world browser game — driving, helicopters, weapons, police AI, day/night cycle. | JavaScript |
 
 <br/>
