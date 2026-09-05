@@ -2,6 +2,8 @@
 
 <img src="./banner.svg" alt="Faizan Khan — Full Stack Developer" width="100%"/>
 
+
+
 </div>
 
 <br/>
