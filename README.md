@@ -1,114 +1,120 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Faizan Khan — Full Stack Developer" width="100%"/>
-
-
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · faizankhan17623</sub></p>
+<h1>FAIZAN KHAN</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>MERN Stack Developer | Building scalable web apps
+ Turning ideas into production-ready solutions
+ Clean Code. Sharp Logic. Real Impact.
+ Consistency</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pune | Maharashtra</sub></p>
+<p><a href="https://github.com/faizankhan17623">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-pied-eight-2csy0b9zua.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/FAIZANKHAN43395">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/143270293?u=a97cb7ff40fab398cf761916f1bfd1ee4a8ac825&amp;v=4" width="180" alt="FAIZAN KHAN GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-<table align="center" border="0">
+<table width="100%">
 <tr>
-<td width="36%" align="center" valign="middle">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,355 contributions · 110 active days</p></td>
+</tr>
+</table>
 
-<img src="./lanyard.svg" alt="Faizan Khan ID badge" width="300"/>
+<p><sub>MERN Stack Developer | Building scalable web apps
+ Turning ideas into production-ready solutions
+ Clean Code. Sharp Logic. Real Impact.
+ Consistency</sub></p>
 
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,355</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="FAIZAN KHAN GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&repos=faizankhan17623%2Fpersonal-gpt-rag%2Cfaizankhan17623%2FScout%2Cfaizankhan17623%2FAi-Notes-Summarizer%2Cfaizankhan17623%2Fvanishcam-invisibility-cloak&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&repos=faizankhan17623%2Fpersonal-gpt-rag%2Cfaizankhan17623%2FScout%2Cfaizankhan17623%2FAi-Notes-Summarizer%2Cfaizankhan17623%2Fvanishcam-invisibility-cloak&v=recruiter-projects-1&mode=dark" width="100%" alt="FAIZAN KHAN selected projects" />
+</picture>
 </td>
-<td width="64%" valign="middle">
-
-### 💫 About Me
-
-I'm a Full Stack Developer based in Pune, India, specializing in the **MERN Stack** and transitioning into **AI/ML Engineering**. I build production-grade web apps with clean architecture and seamless API integration — and lately, AI agents that reason over real data.
-
-- 🎯 **Goal:** Transitioning into an AI/ML Engineer role
-- 🌱 **Currently building:** AI systems with **LangChain**, **RAG pipelines**, and **LangGraph**
-- 💬 **Ask me about:** Full Stack Development, AI Agents, or React optimization
-
-<br/>
-
-<a href="https://www.linkedin.com/in/faizankhan-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:faizankhan901152@gmail.com"><img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Faizankhan17623"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Faizankhan17623/personal-gpt-rag">personal-gpt-rag</a></h3>
+<p>Chat with your documents: React + Express RAG app with Pinecone and Groq (gpt-oss-120b) streaming.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Faizankhan17623/personal-gpt-rag">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Faizankhan17623/Scout">Scout</a></h3><p>Scout - an open-source AI agent with web search, tools, and voice</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Faizankhan17623/Ai-Notes-Summarizer">Ai-Notes-Summarizer</a></h3><p>Notewise — an AI study companion that turns notes into structured summaries, with chat, spaced-repetition flashcards, and quizzes. Express + MongoDB b</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Faizankhan17623/vanishcam-invisibility-cloak">vanishcam-invisibility-cloak</a></h3><p>Real-time AI invisibility cloak built with TensorFlow.js &amp; BodyPix — 100% client-side body segmentation, no backend required.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 🚀 Featured Projects
+<h2>Technical toolkit</h2>
 
-| Project | What it does | Stack |
-|:---|:---|:---:|
-| [**AI Resume Enhancer**](https://github.com/Faizankhan17623/AI-Resume-Enhancer-v2) | Full-stack AI resume review app — ATS scoring, resume chat coaching, payments, admin dashboard. | MERN + AI |
-| [**Notewise (AI Notes Summarizer)**](https://github.com/Faizankhan17623/Ai-Notes-Summarizer) | AI study companion that turns notes into structured summaries, with chat, spaced-repetition flashcards, and quizzes. | MERN + AI |
-| [**Scout**](https://github.com/Faizankhan17623/scout) | Groq-powered web search agent with Tavily and MongoDB. | Node.js + AI |
-| [**GTA Clone**](https://github.com/Faizankhan17623/Gta-Clone) | Open-world browser game — driving, helicopters, weapons, police AI, day/night cycle. | JavaScript |
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="FAIZAN KHAN technology stack" />
+</picture>
+</p>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>96% of public code</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-### 💻 Tech Stack
+<h2>Consistency signal</h2>
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0891b2?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306b6d4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%2338bdf8.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-0e7490.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-0e7490.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-0e7490.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=faizankhan17623&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143270293%3Fu%3Da97cb7ff40fab398cf761916f1bfd1ee4a8ac825%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="FAIZAN KHAN contribution activity" />
+</picture>
+</p>
 
-#### ⚙️ Backend & Systems
-![NodeJS](https://img.shields.io/badge/node.js-0e7490?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-155e75.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-0369a1.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-0891b2?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-155e75.svg?style=for-the-badge&logo=flask&logoColor=white)
+<hr />
 
-#### 🤖 AI / ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-0e7490.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0891b2.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0369a1.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-155e75.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/faizankhan17623">GitHub</a><br /><a href="https://portfolio-pied-eight-2csy0b9zua.vercel.app/">Website</a><br /><a href="https://x.com/FAIZANKHAN43395">X</a></td>
+</tr>
+</table>
 
-#### 🗄️ Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-0e7490.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-0369a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-155e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-0e7490.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats &amp; Graphs
-
-<img src="./stats.svg" alt="GitHub Stats" height="195"/>
-<img src="./langs.svg" alt="Top Languages" height="195"/>
-
-<br/><br/>
-
-<img src="./trophies.svg" alt="Trophies" width="95%"/>
-
-<br/><br/>
-
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizankhan17623&bg_color=0b1723&color=22d3ee&line=0ea5e9&point=67e8f9&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-### 🐍 Watch the snake eat my contributions
-
-<img src="https://raw.githubusercontent.com/Faizankhan17623/Faizankhan17623/output/github-snake.svg" alt="Contribution snake"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Faizankhan17623&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count"/>
-
-<br/><br/>
-
-<em>"I don't just want to write code that works — I want to build systems that think."</em>
-<br/>
-<sub>— Faizan Khan</sub>
-
-</div>
+<p align="center"><sub>FAIZAN KHAN · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
